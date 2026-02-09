@@ -11,5 +11,6 @@ AWS Skill Builder Certificates will be uploaded here.
 
 ### 3. AWS SimuLearn: Databases in Practice
 **Description:**  Focused on practical use of AWS database services, including relational and non-relational databases, data storage, and basic database management in cloud environments.
+
 [View Certificate PDF]([https://github.com/Khanyi26/AWS-reStart-Portfolio/blob/main/certifications/Databases%20in%20Practice.pdf])
 

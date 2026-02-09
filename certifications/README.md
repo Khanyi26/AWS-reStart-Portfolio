@@ -8,3 +8,6 @@ AWS Skill Builder Certificates will be uploaded here.
 ### 2. AWS SimuLearn: File Systems in the Cloud
 **Description:** Learned how to manage and use cloud storage services like S3, EBS, and EFS; organizing, securing, and accessing files in the cloud.  
 [View Certificate PDF]([https://github.com/Khanyi26/AWS-reStart-Portfolio/blob/main/certifications/FileSystemsintheCloud.pdf])
+
+### 3. AWS SimuLearn: Databases in Practice
+**Description:**  Focused on practical use of AWS database services, including relational and non-relational databases, data storage, and basic database management in cloud environments.

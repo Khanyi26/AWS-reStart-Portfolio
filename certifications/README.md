@@ -13,3 +13,7 @@ AWS Skill Builder Certificates will be uploaded here.
 **Description:**  Focused on practical use of AWS database services, including relational and non-relational databases, data storage, and basic database management in cloud environments.
 [View Certificate PDF]([https://github.com/Khanyi26/AWS-reStart-Portfolio/blob/main/certifications/Databases%20in%20Practice.pdf])
 
+### 4. AWS SimuLearn: Networking
+**Description:**  Introduced core cloud networking concepts on AWS, including virtual networking, IP addressing, subnets, routing, and secure connectivity between resources using services such as Amazon VPC and security groups.
+
+

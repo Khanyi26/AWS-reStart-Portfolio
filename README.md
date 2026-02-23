@@ -41,22 +41,35 @@ Details are available in the `tasks/` folder.
 
 ---
 
-## 🚀 Portfolio Project
-As part of the programme, I am working on a **portfolio project** to demonstrate cloud skills:
+## 🚀 Portfolio Projects
 
-### Project Overview
+As part of the programme, I am working on portfolio projects to demonstrate cloud skills:
+
+### 1️⃣ AHKU Cafe Project
+**Project Overview**
 - Create a cloud migration plan for a café
 - Design AWS architecture for the business
-- Host a static website on **Amazon S3**
+- Host a static website on Amazon S3
 
-### Features
+**Features**
 - Cloud architecture design diagram
 - Static website with menu, business description, and contact info
 - Step-by-step S3 hosting guide
-
-📂 Project files are in `portfolio-project/`.
+- 📂 Project files are in `portfolio-project/`
 
 **Live Website:** [AHKU Cafe](http://ahku-cafe-website.s3-website.af-south-1.amazonaws.com/index.html)
+
+---
+
+### 2️⃣ 3D E-Commerce Platform AWS Architecture
+**Project Overview**
+- Design a 3D e-commerce platform architecture using AWS
+- Focus on high availability, scalability, performance, security, and cost optimization
+
+**Features**
+- Cloud architecture design diagram
+- Explanation of AWS service choices and design trade-offs
+- 📂 Project files are in `3D-Ecommerce-Architecture/`
 
 ---
 

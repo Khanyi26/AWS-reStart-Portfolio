@@ -16,4 +16,6 @@ AWS Skill Builder Certificates will be uploaded here.
 ### 4. AWS SimuLearn: Networking
 **Description:**  Introduced core cloud networking concepts on AWS, including virtual networking, IP addressing, subnets, routing, and secure connectivity between resources using services such as Amazon VPC and security groups.
 
-
+### 5. AWS SimuLearn: Core Security Concepts 
+**Description:** Foundational AWS security training covering IAM, least-privilege access, shared responsibility model, and securing EC2 and RDS through hands-on labs.
+[View Certificate](CoreSecurity Concepts.pdf)

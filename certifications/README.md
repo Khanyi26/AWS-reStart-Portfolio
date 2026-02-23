@@ -18,4 +18,4 @@ AWS Skill Builder Certificates will be uploaded here.
 
 ### 5. AWS SimuLearn: Core Security Concepts 
 **Description:** Foundational AWS security training covering IAM, least-privilege access, shared responsibility model, and securing EC2 and RDS through hands-on labs.
-[View Certificate](CoreSecurity Concepts.pdf)
+[View Certificate](certifications/Core Security Concepts.pdf)
